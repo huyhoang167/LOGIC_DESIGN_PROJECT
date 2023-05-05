@@ -1,12 +1,11 @@
 -------------------------------
 LOGIC DESIGN PROJECT (CO3039)
-
+===============================
 Digital Real-time Clock Project
--------------------------------
-This project is made by a group of 2 peope: Nguyen Huy Hoang and Ho Trong Phuc
--------------------------------
+===============================
  Description: Using the PIC18F4620 is the central processor for interfacing with LCD, DS1307, Button, and Buzzer to make a digital clock with many different functions 
  ------------------------------
+ This project is made by a group of 2 peope: Nguyen Huy Hoang and Ho Trong Phuc
  The clock has 8 mode:
  - Mode 1: Display time, data, year
 
