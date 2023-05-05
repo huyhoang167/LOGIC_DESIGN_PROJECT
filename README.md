@@ -47,3 +47,7 @@ Video demo:
 
 [![Video demo](https://img.youtube.com/vi/-NkqBscCRpA/0.jpg)](https://www.youtube.com/watch?v=-NkqBscCRpA)
 
+Report: 
+[report.pdf](https://github.com/huyhoang167/LOGIC_DESIGN_PROJECT/files/11405786/report.pdf)
+
+
