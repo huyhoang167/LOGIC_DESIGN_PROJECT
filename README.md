@@ -46,5 +46,5 @@ Digital Real-time Clock Project
 Video demo:
 
 [![Video demo](https://img.youtube.com/vi/-NkqBscCRpA/0.jpg)](https://www.youtube.com/watch?v=-NkqBscCRpA)
-
+[![](https://markdown-videos.deta.dev/youtube/{-NkqBscCRpA})](https://youtu.be/{-NkqBscCRpA})
 
