@@ -7,7 +7,7 @@ Digital Real-time Clock Project
  ------------------------------
  This project is made by a team of 2 people: Nguyen Huy Hoang and Ho Trong Phuc
  
- Code of these modes is stored in folder \button_matrix
+ Code for functions is stored in folder \button_matrix
  
  The clock has 8 mode:
  - Mode 1: Display time, data, year
