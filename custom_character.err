@@ -1,0 +1,154 @@
+Warning[2068] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.h 21 : obsolete use of implicit 'int' detected
+Warning[2068] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.h 22 : obsolete use of implicit 'int' detected
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 203 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 207 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 208 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 209 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 210 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 211 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 216 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 225 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 226 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 229 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 234 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 235 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 235 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 235 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 235 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 235 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 235 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 237 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 238 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 241 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 246 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 249 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 250 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 253 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 258 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 259 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 259 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 259 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 259 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 259 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 259 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 261 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 262 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 265 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 270 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 273 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 273 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 273 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 273 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 273 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 273 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 275 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 276 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 279 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 284 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 285 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 285 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 285 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 285 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 285 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 285 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 287 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 288 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 291 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 296 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 297 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 297 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 297 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 297 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 297 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 297 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 299 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 300 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 303 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 308 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 312 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 312 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 312 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 312 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 312 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 312 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 314 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 315 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 318 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 323 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 324 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 324 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 324 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 324 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 324 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 324 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 326 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 327 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 330 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 335 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 336 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 336 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 336 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 336 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 336 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 336 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 338 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 339 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 342 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 347 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 348 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 348 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 348 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 348 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 348 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 348 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 350 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 351 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 354 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 359 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 363 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 363 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 363 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 363 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 363 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 363 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 365 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 366 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 369 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 374 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 375 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 375 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 375 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 375 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 375 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 375 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 377 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 378 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 381 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 386 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 387 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 387 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 387 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 387 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 387 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 387 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 389 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 390 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 393 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 398 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 464 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 466 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 467 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 468 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 469 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 470 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 476 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 498 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 502 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 508 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 514 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 520 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 526 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 532 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 538 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 543 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.c 544 : call of function without prototype

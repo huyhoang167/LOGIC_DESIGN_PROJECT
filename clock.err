@@ -1,0 +1,76 @@
+Warning[2068] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.h 21 : obsolete use of implicit 'int' detected
+Warning[2068] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.h 22 : obsolete use of implicit 'int' detected
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 33 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 44 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 45 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 49 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 50 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 73 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 79 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 83 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 88 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 93 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 96 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 100 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 102 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 106 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 113 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 114 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 117 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 120 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 132 : suspicious pointer conversion
+Warning[2066] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 133 : type qualifier mismatch in assignment
+Warning[2066] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 138 : type qualifier mismatch in assignment
+Warning[2066] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 139 : type qualifier mismatch in assignment
+Warning[2066] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 143 : type qualifier mismatch in assignment
+Warning[2066] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 144 : type qualifier mismatch in assignment
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 250 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 252 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 256 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 263 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 264 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 267 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 271 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 272 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 275 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 279 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 280 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 283 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 285 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 288 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 292 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 295 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 299 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 302 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 308 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 337 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 338 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 340 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 342 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 361 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 364 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 367 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 370 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 396 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 397 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 399 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 439 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 447 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 448 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 449 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 450 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 457 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 458 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 459 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 461 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 463 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 478 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 481 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 506 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 507 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 510 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 514 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 515 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 519 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 520 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\clock.c 523 : call of function without prototype

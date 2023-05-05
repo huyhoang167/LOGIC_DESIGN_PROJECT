@@ -1,0 +1,42 @@
+Warning[2068] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.h 21 : obsolete use of implicit 'int' detected
+Warning[2068] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\custom_character.h 22 : obsolete use of implicit 'int' detected
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 11 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 21 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 29 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 30 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 31 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 32 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 41 : call of function without prototype
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 42 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 43 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 46 : suspicious pointer conversion
+Warning[2054] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 47 : suspicious pointer conversion
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 62 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 66 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 69 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 70 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 71 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 76 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 142 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 192 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 193 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 194 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 206 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 210 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 215 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 218 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 219 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 220 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 228 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 244 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 245 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 246 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 253 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 264 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 268 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 269 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 276 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 302 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 311 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 314 : call of function without prototype
+Warning[2058] E:\Doan-final\final\DoAn_TKLL.X-20230106T151851Z-001\DoAn_TKLL.X\button_matrix\fsm.c 315 : call of function without prototype
